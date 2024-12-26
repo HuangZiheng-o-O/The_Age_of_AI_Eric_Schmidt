@@ -1,4 +1,5 @@
 ## Stanford ECON295⧸CS323 I 2024 I The Age of AI, Eric Schmidt  谷歌前CEO引爆科技圈的“大实话”演讲全文 
+
 斯坦福 ECON295⧸CS323 I 2024 I 人工智能时代，埃里克-施密特 
 
 Audio file: [https://drive.google.com/file/d/1eQPHqcRwChpTHYEUQlhUDnBNnCSCTXtp/view?usp=drive\_link](https://drive.google.com/file/d/1eQPHqcRwChpTHYEUQlhUDnBNnCSCTXtp/view?usp=drive_link) Transcribed with Whisper, Medium model: [https://github.com/ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)  
